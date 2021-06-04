@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gideon.</h1>
+<h1 align="center">Hi 👋, I'm Thabang Gideon.</h1>
 <h3 align="center">A passionate full-stack agile developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gideon877&label=Profile%20views&color=0e75b6&style=flat" alt="gideon877" /> </p>
