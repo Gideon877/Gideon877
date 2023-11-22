@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideon877" alt="gideon877" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/gideon877" target="blank"><img src="https://img.shields.io/twitter/follow/gideon877?logo=twitter&style=for-the-badge" alt="gideon877" /></a> </p>
 
 - 🌱 I’m currently learning **React, Typescript, GraphQL and Spark**
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact **Jack of all trade**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/gideon877" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gideon877" height="30" width="40" /></a>
 </p>
