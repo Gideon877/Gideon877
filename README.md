@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thabang Gideon.</h1>
 <h3 align="center">A passionate full-stack agile developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbuDiction&label=Profile%20views&color=0e75b6&style=flat" alt="gideon877" /> <a href="https://wakatime.com/@b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e"><img src="https://wakatime.com/badge/user/b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e.svg" alt="Total time coded since Apr 9 2018" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gideon877&label=Profile%20views&color=0e75b6&style=flat" alt="gideon877" /> <a href="https://wakatime.com/@b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e"><img src="https://wakatime.com/badge/user/b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e.svg" alt="Total time coded since Apr 9 2018" /></a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideon877" alt="gideon877" /></a> </p>
 
