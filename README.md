@@ -55,10 +55,17 @@
 
 ### 📊 Stats & Activity
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gideon877&show_icons=true&theme=radical" alt="GitHub Stats" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gideon877" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon877&layout=compact&theme=radical" alt="Top Languages" />
+  <div style="width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gideon877&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;" />
+  </div>
+  <div style="width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon877&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;" />
+  </div>
+  <div style="width: 400px; height: 200px;">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gideon877" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: contain;" /></a> 
+  </div>
 </p>
+
 
 ---
 
