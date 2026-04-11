@@ -1,60 +1,31 @@
-name: WakaTime Charts
+name: WakaTime Stats Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'   # every 6 hours
   workflow_dispatch:
 
-# 🔑 Add this permissions block
 permissions:
   contents: write
 
 jobs:
-  update-charts:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4   # updated to v4
 
-      # Chart 1: Languages
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: "▏▎▍▌▋▊▉█"
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          LANG_COUNT: 8
-          COMMIT_MESSAGE: "📊 Update languages chart"
-          FILE_NAME: waka-languages.svg
-          COMMITTER_NAME: GitHub Action
-          COMMITTER_EMAIL: action@github.com
-
-      # Chart 2: Editors
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: "editors"
-          SHOW_TITLE: true
-          BLOCKS: "▏▎▍▌▋▊▉█"
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          LANG_COUNT: 5
-          COMMIT_MESSAGE: "🖥️ Update editors chart"
-          FILE_NAME: waka-editors.svg
-          COMMITTER_NAME: GitHub Action
-          COMMITTER_EMAIL: action@github.com
-
-      # Chart 3: Operating Systems
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: "oses"
-          SHOW_TITLE: true
-          BLOCKS: "▏▎▍▌▋▊▉█"
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          LANG_COUNT: 3
-          COMMIT_MESSAGE: "💻 Update OS chart"
-          FILE_NAME: waka-os.svg
-          COMMITTER_NAME: GitHub Action
-          COMMITTER_EMAIL: action@github.com
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_COMMIT: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
