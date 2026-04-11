@@ -79,15 +79,33 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gideon877&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-### ⏱️ Wakatime Coding Activity (Last 7 Days)
-<!-- This chart is generated automatically by GitHub Actions (see setup below) -->
+## ⏱️ Live Coding Metrics (via WakaTime)
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gideon877/gideon877/blob/main/wakatime-stats.svg">
-    <img src="https://github.com/gideon877/gideon877/blob/main/wakatime-stats.svg" alt="Wakatime Weekly Stats" />
-  </picture>
-  <br/>
-  <sub>⚡ *Real‑time coding metrics from WakaTime*</sub>
+  <!-- Total all‑time coding hours -->
+  <a href="https://wakatime.com/@gideon877">
+    <img src="https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e/project/hours&style=flat-square&color=blue" alt="Total Time" />
+  </a>
+  <a href="https://wakatime.com/@gideon877">
+    <img src="https://img.shields.io/badge/Last%207%20Days-43%20hrs-brightgreen?style=flat-square&logo=wakatime" alt="Last 7 Days" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Languages (Last 7d)</b></td>
+    <td align="center"><b>🖥️ Editors</b></td>
+    <td align="center"><b>📟 OS Usage</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/gideon877/gideon877/blob/main/waka-languages.svg" width="100%" /></td>
+    <td><img src="https://github.com/gideon877/gideon877/blob/main/waka-editors.svg" width="100%" /></td>
+    <td><img src="https://github.com/gideon877/gideon877/blob/main/waka-os.svg" width="100%" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>⚡ Updated every 6 hours · <a href="https://wakatime.com/@gideon877">View full dashboard →</a></sub>
 </p>
 
 ### 📈 Contribution Graph (Last 31 Days)
