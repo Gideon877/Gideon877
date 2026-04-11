@@ -84,6 +84,17 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 April 2026 - To: 10 April 2026
+
+TypeScript   41 hrs 52 mins        ██████████████████████▍▏▏   89.36 %
+YAML         2 hrs 17 mins         █▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   04.90 %
+Bash         1 hr 20 mins          ▊▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   02.88 %
+HTML         33 mins               ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.18 %
+JavaScript   26 mins               ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.95 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
