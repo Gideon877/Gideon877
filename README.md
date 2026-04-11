@@ -3,10 +3,12 @@
 </h1>
 
 <p align="center">
-  <!-- Profile Views (auto-updates via countapi) -->
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=gideon877&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <!-- Wakatime Total Hours (static badge, replaced by live chart below) -->
-  <img src="https://img.shields.io/badge/WakaTime-6.4k%20hrs-blue?style=flat-square&logo=wakatime" alt="Wakatime Total" />
+  <!-- WakaTime Total Hours (official badge) -->
+  <a href="https://wakatime.com/@gideon877">
+    <img src="https://wakatime.com/badge/user/b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e.svg?style=flat-square" alt="WakaTime Total" />
+  </a>
   <a href="https://github.com/gideon877?tab=followers">
     <img src="https://img.shields.io/github/followers/gideon877?label=Followers&style=social" alt="GitHub followers" />
   </a>
@@ -18,8 +20,8 @@
 <p align="center">
   <a href="https://x.com/gideon877"><img src="https://img.shields.io/badge/Follow_%40gideon877-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="https://dev.to/gideon877"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://www.linkedin.com/in/gideon877"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:thabanggideon20@gmail"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gideon877@live.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -79,30 +81,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gideon877&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-## ⏱️ Live Coding Metrics (via WakaTime)
-
-<p align="center">
-  <!-- Total all‑time coding hours -->
-  <a href="https://wakatime.com/@gideon877">
-    <img src="https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/b5f7311c-09b2-4bd9-b227-3b0cb8e45e6e/project/hours&style=flat-square&color=blue" alt="Total Time" />
-  </a>
-  <a href="https://wakatime.com/@gideon877">
-    <img src="https://img.shields.io/badge/Last%207%20Days-43%20hrs-brightgreen?style=flat-square&logo=wakatime" alt="Last 7 Days" />
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>💻 Languages (Last 7d)</b></td>
-    <td align="center"><b>🖥️ Editors</b></td>
-    <td align="center"><b>📟 OS Usage</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/gideon877/gideon877/blob/main/waka-languages.svg" width="100%" /></td>
-    <td><img src="https://github.com/gideon877/gideon877/blob/main/waka-editors.svg" width="100%" /></td>
-    <td><img src="https://github.com/gideon877/gideon877/blob/main/waka-os.svg" width="100%" /></td>
-  </tr>
-</table>
+### ⏱️ WakaTime Coding Activity (Last 7 Days)
+<!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <sub>⚡ Updated every 6 hours · <a href="https://wakatime.com/@gideon877">View full dashboard →</a></sub>
@@ -115,7 +97,7 @@
 
 ### 🚀 Recent GitHub Activity
 <!--START_SECTION:activity-->
-<!-- This section will be automatically replaced with your latest events -->
+<!-- This section is automatically updated by the jamesgeorge007/github-activity-readme action -->
 <!--END_SECTION:activity-->
 
 ---
