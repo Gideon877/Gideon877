@@ -1,0 +1,56 @@
+name: WakaTime Charts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-charts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Chart 1: Languages
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: "▏▎▍▌▋▊▉█"
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          LANG_COUNT: 8
+          COMMIT_MESSAGE: "📊 Update languages chart"
+          FILE_NAME: waka-languages.svg
+          COMMITTER_NAME: GitHub Action
+          COMMITTER_EMAIL: action@github.com
+
+      # Chart 2: Editors
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: "editors"
+          SHOW_TITLE: true
+          BLOCKS: "▏▎▍▌▋▊▉█"
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          LANG_COUNT: 5
+          COMMIT_MESSAGE: "🖥️ Update editors chart"
+          FILE_NAME: waka-editors.svg
+          COMMITTER_NAME: GitHub Action
+          COMMITTER_EMAIL: action@github.com
+
+      # Chart 3: Operating Systems
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: "oses"
+          SHOW_TITLE: true
+          BLOCKS: "▏▎▍▌▋▊▉█"
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          LANG_COUNT: 3
+          COMMIT_MESSAGE: "💻 Update OS chart"
+          FILE_NAME: waka-os.svg
+          COMMITTER_NAME: GitHub Action
+          COMMITTER_EMAIL: action@github.com
