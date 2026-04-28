@@ -86,12 +86,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-TypeScript   15 hrs 49 mins        ████████████████████████▋   98.46 %
-Bash         10 mins               ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.05 %
-JSON         4 mins                ▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.49 %
-JavaScript   0 secs                ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.01 %
+TypeScript   17 hrs 54 mins        ███████████████████████▌▏   93.85 %
+Bash         32 mins               ▊▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   02.80 %
+Markdown     19 mins               ▌▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.71 %
+JSON         15 mins               ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.36 %
+Docker       3 mins                ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.28 %
 ```
 
 <!--END_SECTION:waka-->
