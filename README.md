@@ -86,13 +86,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2026 - To: 20 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-TypeScript   7 hrs 25 mins         ███████████████████▏▏▏▏▏▏   76.21 %
-YAML         2 hrs 3 mins          █████▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   21.19 %
-Markdown     10 mins               ▌▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.76 %
-Bash         3 mins                ▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.66 %
-Other        1 min                 ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
