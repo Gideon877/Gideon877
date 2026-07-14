@@ -18,7 +18,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # FIX: Changed from GITHUB_TOKEN to your custom personal access token secret
+          GH_TOKEN: ${{ secrets.WAKATIME_GH_TOKEN }} 
           SHOW_LINES_OF_CODE: false
           SHOW_PROFILE_VIEWS: false
           SHOW_COMMIT: false
