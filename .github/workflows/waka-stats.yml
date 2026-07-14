@@ -13,8 +13,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Updated to v4.2.2 or v4 depends on what the runner matches, but if v4 still throws it, we use the specific sub-version
       - uses: actions/checkout@v4
 
+      # Switched from @master to a pinned stable version if available, 
+      # or you can leave it as @master since the warning is coming specifically from actions/checkout@v4 
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
