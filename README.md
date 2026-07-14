@@ -84,6 +84,8 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C945%20hrs-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -113,7 +115,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 10:47:08 UTC
+ Last Updated on 14/07/2026 10:51:31 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
