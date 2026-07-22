@@ -84,39 +84,17 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C953%20hrs%2042%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+```txt
+From: 14 July 2026 - To: 21 July 2026
 
-```text
-💬 Programming Languages: 
-TypeScript               3 hrs 36 mins       █████████████████████░░░░   85.20 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
+TypeScript   3 hrs 36 mins         █████████████████████▍▏▏▏   85.20 %
+Bash         14 mins               █▌▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   05.57 %
+JavaScript   10 mins               █▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   03.95 %
+JSON         6 mins                ▊▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   02.65 %
+Markdown     2 mins                ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.12 %
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               66 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               42 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-HTML                     13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-CSS                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-```
-
-
-
-
- Last Updated on 22/07/2026 14:10:12 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
