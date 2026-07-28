@@ -84,47 +84,17 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C014%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2025%20mins-blue?style=flat)
+```txt
+From: 19 July 2026 - To: 26 July 2026
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               7 hrs 7 mins        █████████████████████░░░░   85.69 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      8 hrs 19 mins       █████████████████████████   100.00 % 
+TypeScript   7 hrs 7 mins          █████████████████████▌▏▏▏   85.69 %
+JSON         23 mins               █▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   04.62 %
+Markdown     19 mins               █▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   03.89 %
+JavaScript   13 mins               ▊▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   02.79 %
+CSS          6 mins                ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.38 %
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               66 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               42 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-HTML                     13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-CSS                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-```
-
-
-
-
- Last Updated on 27/07/2026 19:43:25 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
