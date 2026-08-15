@@ -84,17 +84,24 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C058%20hrs%207%20mins-blue?style=flat)
 
-```txt
-From: 06 August 2026 - To: 13 August 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2035%20mins-blue?style=flat)
 
-TypeScript   21 hrs 15 mins        ████████████████████████▍   97.01 %
-Markdown     33 mins               ▋▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   02.52 %
-Bash         5 mins                ▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.42 %
-Other        0 secs                ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.03 %
-GraphQL      0 secs                ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.02 %
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               66 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               42 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+CSS                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
+
+
+
+ Last Updated on 15/08/2026 01:37:07 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
