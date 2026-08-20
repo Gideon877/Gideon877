@@ -84,17 +84,64 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C074%20hrs%2025%20mins-blue?style=flat)
 
-```txt
-From: 11 August 2026 - To: 18 August 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2035%20mins-blue?style=flat)
 
-TypeScript   30 hrs 22 mins        ████████████████████████▍   96.87 %
-Markdown     33 mins               ▌▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.76 %
-Bash         13 mins               ▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.72 %
-JSON         5 mins                ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.28 %
-TSConfig     4 mins                ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.25 %
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               31 hrs 25 mins      █████████████████████████   98.34 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+
+🔥 Editors: 
+VS Code                  31 hrs 51 mins      █████████████████████████   99.69 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+💻 Operating System: 
+Mac                      31 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 mins (0.54%)
+
+✍️ 24 lines written by AI, 18,610 lines written by hand (0.13% AI-written)
+
+🔤 116,527 Input Tokens, 8,191 Output Tokens
+
+💵 $0.60 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+GPT                      24 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.13% of written lines came from AI
+📝 Concise Prompter — average 427 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.92% of changed lines were hand-edited
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               66 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               42 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+CSS                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+```
+
+
+
+
+ Last Updated on 20/08/2026 01:37:37 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
