@@ -84,17 +84,47 @@
 ### ⏱️ WakaTime Coding Activity (Last 7 Days)
 <!-- This section is automatically updated by the anmol098/waka-readme-stats GitHub Action -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C171%20hrs%2042%20mins-blue?style=flat)
 
-```txt
-From: 17 September 2026 - To: 24 September 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2035%20mins-blue?style=flat)
 
-TypeScript   2 hrs 24 mins         ███████████████▏▏▏▏▏▏▏▏▏▏   60.18 %
-Docker       1 hr 21 mins          ████████▌▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   33.99 %
-Bash         6 mins                ▊▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   02.76 %
-Markdown     3 mins                ▌▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   01.44 %
-TSConfig     2 mins                ▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏   00.88 %
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 24 mins       ███████████████░░░░░░░░░░   60.18 % 
+Docker                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   33.99 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               66 repos            ███████████░░░░░░░░░░░░░░   43.71 % 
+TypeScript               42 repos            ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Java                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+HTML                     12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+```
+
+
+
+
+ Last Updated on 25/09/2026 11:35:06 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
